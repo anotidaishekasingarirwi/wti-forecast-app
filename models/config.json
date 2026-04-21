@@ -1,0 +1,18 @@
+{
+  "total_fet": [
+    "Price",
+    "Open",
+    "High",
+    "Low",
+    "Change %",
+    "ma_5",
+    "ma_20",
+    "RSI",
+    "momentum",
+    "volatility",
+    "price_change"
+  ],
+  "seq_len": 60,
+  "forecast_horizon": 10,
+  "price_index": 0
+}

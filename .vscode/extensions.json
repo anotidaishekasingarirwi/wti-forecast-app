@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.debugpy",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
+    "rangav.vscode-thunder-client",
+    "humao.rest-client",
+    "ms-python.vscode-pylance"
+  ]
+}
